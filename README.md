@@ -13,7 +13,7 @@ Key features:
 - using dynamic C# types directly as http response JSON data;
 
 - Single Page Web application for access to WebAPI;
-- Custom reusable Angular directives;
+- Custom reusable Angular directives, SSE;
 - Highcharts and KendoUI components;
 
 Target device/platform for WebAPI/DataBase:
