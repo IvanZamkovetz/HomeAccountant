@@ -15,6 +15,7 @@ Key features:
 - Single Page Web application for access to WebAPI;
 - Custom reusable Angular directives, SSE;
 - Highcharts and KendoUI components;
+- Automatic recalculating Highcharts diagramm after dragging it's points
 
 Target device/platform for WebAPI/DataBase:
 Windows8.1/10 with .NET4.5 and SQL14 Engine
