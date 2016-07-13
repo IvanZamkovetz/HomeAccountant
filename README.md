@@ -1,8 +1,8 @@
 # HomeAccountent
-An application for home accounting using C#/ASP.NET self-hosted WebAPI with SQL14 DataBase and AngularJS Web application for users access.
+An application for home accounting using C#/ASP.NET self-hosted OWIN WebAPI with SQL14 DataBase and ASP AngularJS Web application for users access.
 
 Purpose of application:
-This application represents a home accounting system allowing users to control current financial balance, track and redistribute their costs, and make future predictions using draggable charts with “on the fly” costs recalculating
+This application is a framework for the logic of a home accounting system allowing users to control current financial balance, track and redistribute their costs, and make future predictions using draggable charts with “on the fly” costs recalculating
 
 Key features:
 - “Smart” DataBase with service procedures/functions for easy data management;
